@@ -1795,4 +1795,3 @@ const TIKTOK_GIFTS = [
 
 document.dispatchEvent(new Event('giftsLoaded'));
 console.log('✅ ' + window.tiktokRealGifts.length + ' cadeaux TikTok chargés !');
-console.log('🎪 ' + (window.tiktokRealGifts.length - 788) + ' nouveaux cadeaux depuis StreamlineAgency !');
